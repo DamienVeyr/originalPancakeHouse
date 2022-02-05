@@ -2,6 +2,10 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Lobster', cursive;
+}
+
 .col-img {
     background: rgba(0, 0, 0, 0.3);
 }
@@ -29,7 +33,7 @@ footer {
 .navbar, footer {
     background: rgba(0, 0, 0, 0.8);
     min-height: 100px;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
 .underlined {
